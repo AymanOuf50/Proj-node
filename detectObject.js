@@ -15,6 +15,3 @@ const detectObject = async (imageData) => {
     }
 };
 
-// Test the function
-const imageData = 'base64_image_data_here';  
-detectObject(imageData);
